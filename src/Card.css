@@ -1,0 +1,65 @@
+.card{
+    border: 2px solid rgb(8, 127, 173);
+    width: 140px;
+    min-height: 190px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 32px;
+}
+
+.images{
+    width: 120px;
+    height: 64px;
+    border-radius: 12px;
+    border-color: 2px solid rgb(8, 127, 173);
+    background-color: rgb(114, 117, 114);
+    position: relative;
+    margin: auto;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.content{
+    text-align: left;
+    margin-top: 50px;
+    min-height: 110px;
+  
+}
+
+.txt {
+    margin-top: -28px;
+}
+.title{
+    text-align: center;
+    margin-top: -22px;
+
+}
+
+.images .imageTxt{
+    margin-top: -2px;
+    margin-bottom: 43px;
+    padding-top: 22px; 
+    /* waee */
+}
+
+
+.cardImage{
+    width: 120px;
+    height: 64px;
+}
+
+.divImage{
+    width: 120px;
+    height: 64px;
+    border-radius: 12px;
+    border-color: 2px solid rgb(8, 127, 173);
+    background-color: rgb(114, 117, 114);
+    position: relative;
+    margin: auto;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.divImage  .title{
+    margin-top: -6px;
+}
