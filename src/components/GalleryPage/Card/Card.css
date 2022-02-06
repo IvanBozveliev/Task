@@ -63,3 +63,23 @@
 .divImage  .title{
     margin-top: -6px;
 }
+
+.matrixCards {
+    width: 656px;
+    position: relative;
+
+    /* text-align: center; */
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+.dynamicSearch {
+    border: 2px solid rgb(8, 127, 173);
+    border-radius: 6px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 200px;
+    height: 20px;
+}
