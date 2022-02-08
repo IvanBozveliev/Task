@@ -1,14 +1,15 @@
 import { Routes, Route } from 'react-router-dom';
-import { LoginContext } from './contexts/LoginContext';
 import { useState } from 'react';
+import { LoginContext } from './contexts/LoginContext';
 
 import Login from './components/LoginPage/LoginPage';
 import Gallery from './components/GalleryPage/GalleryPage';
 
-
 import './App.css';
 
+
 function App() {
+  
   const [username, setUsername] = useState('');
 
   return (
